@@ -66,6 +66,7 @@ If you accidentally add the wrong type of tag or want to change the type of a ta
    ![Screenshot showing a <P> tag in the Tags panel. It is selected, so the tag is inside a box with a blue background](/static/img/selected-tag.png)
 2. When the tag you clicked on is inside a blue square, which indicates that it currently has focus, left-click on that tag again  
    ![Screenshot of a <P> tag that has been clicked on twice and can now be edited and changed to a new tag type](/static/img/editable-tag.png)
+   1. You can also right-click on the tag you'd like to change and click the "Properties..." option in the pop-up menu. You can then choose the correct tag from the Type select list.
 3. Enter the new tag type that you would like to use. You must always start with a less-than-sign `<` to begin the tag, followed by the exact text for the tag type. You don’t need to type the more-than-sign `>` for the end of the tag – that will be inserted automatically after you enter the tag type and press the Enter key.
 
 ### Common Tag Types
