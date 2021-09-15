@@ -108,11 +108,8 @@ Another common type of input in a form is multiple choice, such as a set of radi
 
 ## Post-processing Settings
 
-After all the manual tagging work is done, many problems that you might not be aware of can be solved by running Print Production Preflight tasks. These are automated tasks run in Acrobat Pro that will “detect and fix problems to obtain higher quality PDF documents”. The most useful tasks, which can be done in the following order one-by-one, are:
+After all the manual tagging work is done, many problems that you might not be aware of can be solved by running Print Production Preflight tasks. These are automated tasks run in Acrobat Pro that will “detect and fix problems to obtain higher quality PDF documents”. The most useful task is Fix potential font problems and Fix problems in PDF tagging structure.  
+  
+![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the Acrobat Pro DC 2015 Profiles option is selected in the dropdown at the top of the window; another arrow is pointing at the Toolbox icon button; a red border is around the Fix potential font problems and Fix problems in PDF tagging structure entry options; and an arrow is pointing at the Analyze and Fix button at the bottom of the window](/static/img/preflight.png)
 
-1. Set PDF/UA-1 Entry  
-   ![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the PDF Standards option is selected in the dropdown at the top of the window; another arrow is pointing at the Wrench icon button; a red border is around the Set PDF/UA-1 entry option; and an arrow is pointing at the Fix button at the bottom of the window](/static/img/set-pdf-ua.png)
-2. Fix potential font problems and Fix problems in PDF tagging structure  
-   ![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the Acrobat Pro DC 2015 Profiles option is selected in the dropdown at the top of the window; another arrow is pointing at the Toolbox icon button; a red border is around the Fix potential font problems and Fix problems in PDF tagging structure entry options; and an arrow is pointing at the Analyze and Fix button at the bottom of the window](/static/img/preflight.png)
-
-**Note:** When making these fixes, you’ll need to save the file again every time you run them. You can simply replace the previous version of the file when asked to do this.
+**Note:** When making these fixes, you’ll need to save the file again. You can simply replace the previous version of the file when asked to do this.
