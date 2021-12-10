@@ -8,13 +8,15 @@ eleventyNavigation:
   order: 3
 
 ---
+**Note:** Instead of making a fillable form as a PDF, consider using [Microsoft Forms](/training/creating-accessible-content/microsoft-forms/) instead. It's a more accessible option in many ways, including not requiring the user to download a file, allowing the user to easily complete the form on a mobile device, and using HTML instead of the inherently less accessible PDF format.
+
 While digital publishing programs like Adobe InDesign can export a reasonably accessible PDF document, that PDF is usually not actually usable by people with disabilities. PDF documents need tagged content to be perceivable to assistive technologies, but relying on tags and reading order to be created in an automated process will not offer a fully usable solution. It’s necessary for a human to test the document and make sure it works with assistive technology. This guide is assuming that the PDF has already been created and exported to a PDF, and that the design of the document itself is already accessible – for example, there is sufficient color contrast between the text and the background of the document. The design and color palette of a document needs to be edited in the original program and not in Adobe Acrobat.
 
 Fillable forms are just one type of PDF document that needs to be fully accessible. Users can interact with the form using a mouse, keyboard, voice recognition software, assistive technologies like screen readers and Braille displays, and many other types of input. Getting the basics right and making sure a form is properly tagged and the reading order is correct can go a long way to making it as accessible as possible.
 
-It’s usually a good idea to use the Accessibility Tool’s Autotag Document option as the first step to making a PDF more accessible. Unless you’re confident that it was exported from InDesign with all tags intact and accurate, the Autotag Document tool might make for a better starting point. However, running the Autotag Document tool sometimes causes the PDF’s layers to overlap one another, making some text difficult or impossible to read. If that happens, you’ll need to revert to the previous version of the file by going to the File option at the top of the program, followed by the Revert option. When that happens, you’ll need to manually change the tags that were exported from the original program.
+It’s sometimes a good idea to use the Accessibility Tool’s Autotag Document option as the first step to making a PDF more accessible. Unless you’re confident that it was exported from InDesign with all tags intact and accurate, the Autotag Document tool might make for a better starting point. However, running the Autotag Document tool sometimes causes the PDF’s layers to overlap one another, making some text difficult or impossible to read. If that happens, you’ll need to revert to the previous version of the file by going to the File option at the top of the program, followed by the Revert option. When that happens, you’ll need to manually change the tags that were exported from the original program.
 
-**Note:** Instead of making a fillable form as a PDF, consider using [Microsoft Forms](/training/creating-accessible-content/microsoft-forms/) instead. It's a more accessible option in many ways, including not requiring the user to download a file, allowing the user to easily complete the form on a mobile device, and using HTML instead of the inherently less accessible PDF format.
+If you have access to LinkedIn Learning, the video courses for [Creating Accessible PDFs (external link)](https://www.linkedin.com/learning/creating-accessible-pdfs "https://www.linkedin.com/learning/creating-accessible-pdfs") and [Advanced Accessible PDFs (external link)](https://www.linkedin.com/learning/advanced-accessible-pdfs "https://www.linkedin.com/learning/advanced-accessible-pdfs") cover almost everything you need to know about creating accessible Word documents, PowerPoint presentations, and PDFs, and is highly recommended.
 
 ## Add Accessibility Tool to Acrobat
 
@@ -108,8 +110,8 @@ Another common type of input in a form is multiple choice, such as a set of radi
 
 ## Post-processing Settings
 
-After all the manual tagging work is done, many problems that you might not be aware of can be solved by running Print Production Preflight tasks. These are automated tasks run in Acrobat Pro that will “detect and fix problems to obtain higher quality PDF documents”. The most useful task is Fix potential font problems and Fix problems in PDF tagging structure.  
-  
+After all the manual tagging work is done, many problems that you might not be aware of can be solved by running Print Production Preflight tasks. These are automated tasks run in Acrobat Pro that will “detect and fix problems to obtain higher quality PDF documents”. The most useful task is Fix potential font problems and Fix problems in PDF tagging structure.
+
 ![Screenshot of the Print Production Preflight window in Adobe Acrobat. Arrows are pointing to the most important aspects - the Acrobat Pro DC 2015 Profiles option is selected in the dropdown at the top of the window; another arrow is pointing at the Toolbox icon button; a red border is around the Fix potential font problems and Fix problems in PDF tagging structure entry options; and an arrow is pointing at the Analyze and Fix button at the bottom of the window](/static/img/preflight.png)
 
 **Note:** When making these fixes, you’ll need to save the file again. You can simply replace the previous version of the file when asked to do this.
