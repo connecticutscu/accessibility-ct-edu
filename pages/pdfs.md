@@ -16,7 +16,7 @@ The best way to make an accessible PDF is to start with an accessible source doc
 
 ## Making a PDF Accessible Using Adobe Acrobat
 
-If you have access to LinkedIn Learning, the video courses for [Creating Accessible PDFs (external link)](https://www.linkedin.com/learning/creating-accessible-pdfs "https://www.linkedin.com/learning/creating-accessible-pdfs") and [Advanced Accessible PDFs (external link)](https://www.linkedin.com/learning/advanced-accessible-pdfs "https://www.linkedin.com/learning/advanced-accessible-pdfs") cover almost everything you need to know about creating accessible Word documents, PowerPoint presentations, and PDFs, and is highly recommended.
+If you have access to LinkedIn Learning, the video courses for [Creating Accessible PDFs (external link)](https://www.linkedin.com/learning/creating-accessible-pdfs) and [Advanced Accessible PDFs (external link)](https://www.linkedin.com/learning/advanced-accessible-pdfs) cover almost everything you need to know about creating accessible Word documents, PowerPoint presentations, and PDFs, and is highly recommended.
 
 ### Run "Make Accessible" wizard
 
