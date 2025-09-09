@@ -459,8 +459,7 @@ All roles listed below should use the provided list of resources to learn about 
 * [Accessible Documents: Word, PowerPoint and Acrobat online course from WebAIM](https://webaim.org/training/docs/)
 * [Accessibility Fundamentals: Disabilities, Guidelines and Laws from Deque University](https://dequeuniversity.com/curriculum/courses/fundamentals)
 * [Reference Guides (cheat sheets) for Accessible Documents](http://ncdae.org/resources/cheatsheets/)
-* [Caption Video Content for Accessibility with Blackboard](https://help.blackboard.com/Accessibility/Caption_Video_Content)
-* [Blackboard Closed Captioning Instructions](https://help.blackboard.com/Collaborate/v12/Moderator/Accessibility_Features/Closed_Captioning)
+* [Caption Video Content for Accessibility with Blackboard](https://help.blackboard.com/Learn/Student/Original/Accessibility/Best_Practice_Caption_Video_Content)
 * [Captioning Key from the Described and Captioned Media Program](https://www.captioningkey.org/quality_captioning.html)
 * [Ally for LMS Help for Instructors](https://help.blackboard.com/Ally/Ally_for_LMS/Instructor)
 
