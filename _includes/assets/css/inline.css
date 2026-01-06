@@ -98,6 +98,7 @@ main {
     flex-direction: column;
 	padding-bottom: 0;
 	font-size: var(--font-size);
+	padding-top:2rem;
 }
 
 main > *:not(.icons):not(.overflow) {
