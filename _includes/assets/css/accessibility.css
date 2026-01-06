@@ -10,6 +10,19 @@ a[href="#main"]:focus {
     text-decoration: underline;
 }
 
+/* Hide when not in focus */
+a[href="#main"] {
+  position: absolute; /* Or use transform: translateX(-100%); */
+  left: -9999px;     /* Pushes it far off-screen */
+  top: 0;
+  z-index: 100;      /* Ensures it's above other elements */
+  transition: transform 0.2s ease-in-out;
+}
+a[href="#main"]:focus {
+  position: static; /* Or transform: translateX(0); */
+  left: auto;
+}
+
 .visually-hidden { 
     position: absolute !important;
     height: 1px; 
