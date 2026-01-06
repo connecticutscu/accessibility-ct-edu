@@ -14,24 +14,21 @@ eleventyNavigation:
 
  <div class="icons">
   <div>
-    <img src="/static/img/group.svg" alt="" role="img" height="150" width="150" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzJkMmYzMiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0xNjgsMTQ0YTQwLDQwLDAsMSwxLTQwLTQwQTQwLDQwLDAsMCwxLDE2OCwxNDRaTTY0LDU2QTMyLDMyLDAsMSwwLDk2LDg4LDMyLDMyLDAsMCwwLDY0LDU2Wm0xMjgsMGEzMiwzMiwwLDEsMCwzMiwzMkEzMiwzMiwwLDAsMCwxOTIsNTZaIiBvcGFjaXR5PSIwLjIiPjwvcGF0aD48cGF0aCBkPSJNMjQ0LjgsMTUwLjRhOCw4LDAsMCwxLTExLjItMS42QTUxLjYsNTEuNiwwLDAsMCwxOTIsMTI4YTgsOCwwLDAsMSwwLTE2LDI0LDI0LDAsMSwwLTIzLjI0LTMwLDgsOCwwLDEsMS0xNS41LTRBNDAsNDAsMCwxLDEsMjE5LDExNy41MWE2Ny45NCw2Ny45NCwwLDAsMSwyNy40MywyMS42OEE4LDgsMCwwLDEsMjQ0LjgsMTUwLjRaTTE5MC45MiwyMTJhOCw4LDAsMSwxLTEzLjg1LDgsNTcsNTcsMCwwLDAtOTguMTUsMCw4LDgsMCwxLDEtMTMuODQtOCw3Mi4wNiw3Mi4wNiwwLDAsMSwzMy43NC0yOS45Miw0OCw0OCwwLDEsMSw1OC4zNiwwQTcyLjA2LDcyLjA2LDAsMCwxLDE5MC45MiwyMTJaTTEyOCwxNzZhMzIsMzIsMCwxLDAtMzItMzJBMzIsMzIsMCwwLDAsMTI4LDE3NlpNNzIsMTIwYTgsOCwwLDAsMC04LThBMjQsMjQsMCwxLDEsODcuMjQsODJhOCw4LDAsMSwwLDE1LjUtNEE0MCw0MCwwLDEsMCwzNywxMTcuNTEsNjcuOTQsNjcuOTQsMCwwLDAsOS42LDEzOS4xOWE4LDgsMCwxLDAsMTIuOCw5LjYxQTUxLjYsNTEuNiwwLDAsMSw2NCwxMjgsOCw4LDAsMCwwLDcyLDEyMFoiPjwvcGF0aD48L3N2Zz4=" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/council">Council</a>
     </h2>
-    <p class="credit">Icons made by <a href="https://www.flaticon.com/authors/prosymbols">Prosymbols</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
   </div>
   <div>
-    <img src="/static/img/resources.svg" alt="" role="img" height="150" width="150" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzJkMmYzMiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0yMzIsNTZWMjAwSDE2MGEzMiwzMiwwLDAsMC0zMiwzMlY4OGEzMiwzMiwwLDAsMSwzMi0zMloiIG9wYWNpdHk9IjAuMiI+PC9wYXRoPjxwYXRoIGQ9Ik0yMzIsNDhIMTYwYTQwLDQwLDAsMCwwLTMyLDE2QTQwLDQwLDAsMCwwLDk2LDQ4SDI0YTgsOCwwLDAsMC04LDhWMjAwYTgsOCwwLDAsMCw4LDhIOTZhMjQsMjQsMCwwLDEsMjQsMjQsOCw4LDAsMCwwLDE2LDAsMjQsMjQsMCwwLDEsMjQtMjRoNzJhOCw4LDAsMCwwLDgtOFY1NkE4LDgsMCwwLDAsMjMyLDQ4Wk05NiwxOTJIMzJWNjRIOTZhMjQsMjQsMCwwLDEsMjQsMjRWMjAwQTM5LjgxLDM5LjgxLDAsMCwwLDk2LDE5MlptMTI4LDBIMTYwYTM5LjgxLDM5LjgxLDAsMCwwLTI0LDhWODhhMjQsMjQsMCwwLDEsMjQtMjRoNjRaTTE2MCw4OGg0MGE4LDgsMCwwLDEsMCwxNkgxNjBhOCw4LDAsMCwxLDAtMTZabTQ4LDQwYTgsOCwwLDAsMS04LDhIMTYwYTgsOCwwLDAsMSwwLTE2aDQwQTgsOCwwLDAsMSwyMDgsMTI4Wm0wLDMyYTgsOCwwLDAsMS04LDhIMTYwYTgsOCwwLDAsMSwwLTE2aDQwQTgsOCwwLDAsMSwyMDgsMTYwWiI+PC9wYXRoPjwvc3ZnPg==" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/resources">Resources</a>
     </h2>
-    <p class="credit">Icons made by <a href="https://www.flaticon.com/authors/good-ware">Good Ware</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
   </div>
   <div>
-    <img src="/static/img/training.svg" alt="" role="img" height="150" width="150" />
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzJkMmYzMiIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxwYXRoIGQ9Ik0xOTIsODB2OTZIMTA0YTMyLDMyLDAsMSwwLTMyLTMySDY0VjgwWiIgb3BhY2l0eT0iMC4yIj48L3BhdGg+PHBhdGggZD0iTTIxNiw0MEg0MEExNiwxNiwwLDAsMCwyNCw1NlYyMDBhMTYsMTYsMCwwLDAsMTYsMTZINTMuMzlhOCw4LDAsMCwwLDcuMjMtNC41Nyw0OCw0OCwwLDAsMSw4Ni43NiwwLDgsOCwwLDAsMCw3LjIzLDQuNTdIMjE2YTE2LDE2LDAsMCwwLDE2LTE2VjU2QTE2LDE2LDAsMCwwLDIxNiw0MFpNODAsMTQ0YTI0LDI0LDAsMSwxLDI0LDI0QTI0LDI0LDAsMCwxLDgwLDE0NFptMTM2LDU2SDE1OS40M2E2NC4zOSw2NC4zOSwwLDAsMC0yOC44My0yNi4xNiw0MCw0MCwwLDEsMC01My4yLDBBNjQuMzksNjQuMzksMCwwLDAsNDguNTcsMjAwSDQwVjU2SDIxNlpNNTYsOTZWODBhOCw4LDAsMCwxLDgtOEgxOTJhOCw4LDAsMCwxLDgsOHY5NmE4LDgsMCwwLDEtOCw4SDE3NmE4LDgsMCwwLDEsMC0xNmg4Vjg4SDcydjhhOCw4LDAsMCwxLTE2LDBaIj48L3BhdGg+PC9zdmc+" alt="" role="img" height="150" width="150" />
     <h2>
       <a href="/training">Training</a>
     </h2>
-    <p class="credit">Icons made by <a href="https://www.flaticon.com/authors/geotatah">geotatah</a> from <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
   </div>
  </div>
