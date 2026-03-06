@@ -20,7 +20,7 @@ The CSCU Accessibility Council has curated a collection of training resources th
 
 ## Accessible Content
 
-* [A Tutorial for Making Online Learning Accessible to Students with Disabilities (external link)](https://www.washington.edu/doit/tutorial-making-online-learning-accessible-students-disabilities)
+* [A Tutorial for Making Online Learning Accessible to Students with Disabilities (external link)](https://doit.uw.edu/brief/a-tutorial-for-making-online-learning-accessible-to-students-with-disabilities/)
 * [Explore Access – Designing an Accessible Online Course (external link)](https://exploreaccess.org/accessible-online-course/)
 * [Social Media Accessibility (external link)](https://usability.yale.edu/web-accessibility/articles/social-media)
 * [Evaluating Publisher Content for Accessibility (external link)](https://www.angelo.edu/content/blogs/26-evaluating-publisher-content-for-accessibility)
