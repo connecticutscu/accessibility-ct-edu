@@ -1,7 +1,13 @@
 [build]
   publish = "_site"
   command = "eleventy"
-
+  
+[[redirects]]
+  from = "/*"
+  to = "https://www.ct.edu/digital-accessibility"
+  status = 301
+  force = true
+  
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
